@@ -18,5 +18,4 @@ async function cat(path) {
   }
 }
 
-
 cat(argv[2]);
